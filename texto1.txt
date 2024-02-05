@@ -3,4 +3,5 @@
  git init => Se crea un repositorio.
  git status = Vemos la info del repositorio.
  git add archivo = Pasar el archivo al area de seguimiento
- git commit -m = Mensaje de seguimiento
+ git commit -m = Mensaje de seguimiento}
+ git push origin master = Sube los commits al remoto
