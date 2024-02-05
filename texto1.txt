@@ -5,3 +5,5 @@
  git add archivo = Pasar el archivo al area de seguimiento
  git commit -m = Mensaje de seguimiento}
  git push origin master = Sube los commits al remoto
+ git clone = Trae el repositorio remoto a mi cumputadora
+ git pull origin mater = Trae los commits nuevos del remoto
