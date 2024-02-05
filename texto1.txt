@@ -1,0 +1,4 @@
+ Hola GIT!
+
+ git init => Se crea un repositorio.
+ git status = Vemos la info del repositorio.
